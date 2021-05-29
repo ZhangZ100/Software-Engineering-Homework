@@ -61,12 +61,13 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-			<!--<exclusions>
+			<exclusions>
 				<exclusion>
 					<groupId>org.springframework.boot</groupId>
 					<artifactId>spring-boot-starter-tomcat</artifactId>
 				</exclusion>
-			</exclusions>-->
+			</exclusions>
+<!--			部署的时候把tomcat自带的tomcat注销用自己的tomcat-->
 		</dependency>
 
 		<dependency>
