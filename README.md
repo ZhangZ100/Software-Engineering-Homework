@@ -8,3 +8,5 @@ https://shimo.im/docs/3CHD6hPvkqrTjRVR/
 
 设计文档
 https://shimo.im/docs/x3ThxywcHTDhh3hC/
+
+源代码位于该项目另一个分支：master
